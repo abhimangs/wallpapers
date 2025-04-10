@@ -2,7 +2,8 @@
 
 A personal stash of wallpapers for desktops — nature, abstract, and minimalist vibes.
 
----
+![Repo Size](https://img.shields.io/github/repo-size/abhimangs/wallpapers?style=plastic&logo=github&color=1e90ff&label=Repo%20Size)
+![Total Files](https://img.shields.io/badge/Total%20Wallpapers-13-2f3136?style=flat)
 
 ## ℹ️ About
 
@@ -12,16 +13,12 @@ This is my collection of wallpapers I’ve gathered or made. You’ll find stuff
 ![Watchers](https://img.shields.io/github/watchers/abhimangs/wallpapers?style=flat-square&label=Watchers&color=2f3136)
 ![Last Commit](https://img.shields.io/github/last-commit/abhimangs/wallpapers?style=flat-square&label=Last%20Update&color=2f3136)
 
----
-
 ## 🚀 How to Use
 
 1. Browse the files above.
 2. Click any wallpaper to preview it.
 3. Download the ones you like (right-click > Save Image As).
 4. Set it as your desktop background and enjoy! 🎉
-
----
 
 ## 🤝 Contributing
 
@@ -36,7 +33,4 @@ Want to add your own wallpapers? Awesome! Here’s how:
 
 ### Tips
 - Keep it high-res (at least 1920x1080). 🖼️
-- Nature, abstract, or minimalist styles are best. 🌿
 - No copyrighted stuff, please. 🚫
-
----
